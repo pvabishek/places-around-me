@@ -185,9 +185,8 @@ struck the seafront in December 2004, the memorial was damaged. Repair works cos
 </p>
 </body>
 </html>
-##output
-![p![2 imaghe](https://user-images.githubusercontent.com/119405626/215506518-69113b88-83fd-46f9-b59b-3a875bcce01f.png)
-laces around me](https://user-images.githubusercontent.com/119405626/215506497-511e5260-b6f3-4d41-bdc8-1c77f3c5a9a4.png)
+
+
 
 
 ##result:
